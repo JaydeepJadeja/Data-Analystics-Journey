@@ -20,18 +20,18 @@ The goal of this repository is to stay consistent, build real-world projects, im
 
 ## Progress Tracker
 
-| Day | Topic | Status |
-|------|------|------|
-| Day 1 | SELECT statements, WHERE clause, GROUP BY, ORDER BY, HAVING vs WHERE, LIMIT, Aliasing | Completed |
-| Day 2 |  |  |
-| Day 3 |  |  |
-| Day 4 |  |  |
-| Day 5 |  |  |
-| Day 6 |  |  |
-| Day 7 |  |  |
-| Day 8 |  |  |
-| Day 9 |  |  |
-| Day 10 |  |  |
+| Day | Topic |
+|------|------|
+| Day 1 | SELECT statements, WHERE clause, GROUP BY, ORDER BY, HAVING vs WHERE, LIMIT, Aliasing 
+| Day 2 |  |  
+| Day 3 |  |  
+| Day 4 |  |  
+| Day 5 |  |  
+| Day 6 |  |  
+| Day 7 |  |  
+| Day 8 |  | 
+| Day 9 |  |  
+| Day 10 |  |  
 
 ---
 
