@@ -48,8 +48,8 @@ The goal of this repository is to stay consistent, build real-world projects, im
 
 | Project | Description |
 |---------|-------------|
-| [Bike Sales Analysis Dashboard](https://github.com/yourusername/bike-sales-analysis-dashboard) | Bike Sales Analysis Dashboard built using Excel to analyze customer purchasing behavior, income trends, and regional sales patterns. |
-| [Superstore Sales Dashboard](https://github.com/yourusername/superstore-sales-dashboard-exce) | Interactive Superstore Sales Dashboard built in Excel. |
+| [Bike Sales Analysis Dashboard](https://github.com/JaydeepJadeja/bike-sales-analysis-dashboard) | Bike Sales Analysis Dashboard built using Excel to analyze customer purchasing behavior, income trends, and regional sales patterns. |
+| [Superstore Sales Dashboard](https://github.com/JaydeepJadeja/superstore-sales-dashboard-exce) | Interactive Superstore Sales Dashboard built in Excel. |
 
 ---
 
