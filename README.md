@@ -1,8 +1,8 @@
-                                                 # Data Analyst Journey 📊
+# Data Analyst Journey 📊
 
- ## Welcome to my Data Analytics learning journey.
+Welcome to my Data Analytics learning journey.
 
- This repository is dedicated to tracking my daily progress, practice, projects, and skills as I work towards becoming a Data Analyst.
+This repository is dedicated to tracking my daily progress, practice, projects, and skills as I work towards becoming a Data Analyst.
 
 I am currently learning and practicing:
 - Excel
@@ -18,13 +18,40 @@ The goal of this repository is to stay consistent, build real-world projects, im
 
 ---
 
+## Progress Tracker
+
+| Day | Topic | Status |
+|------|------|------|
+| Day 1 |  |  |
+| Day 2 |  |  |
+| Day 3 |  |  |
+| Day 4 |  |  |
+| Day 5 |  |  |
+| Day 6 |  |  |
+| Day 7 |  |  |
+| Day 8 |  |  |
+| Day 9 |  |  |
+| Day 10 |  |  |
+
+---
+
+## Projects
+
+| Project | Tools Used | Status |
+|---------|-------------|--------|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+---
+
 ## Certifications
 
 | Certificate | Status |
 |-------------|--------|
 | Google Data Analytics Professional Certificate | In Progress |
 
-
+---
 
 ## Goals
 
@@ -37,5 +64,5 @@ The goal of this repository is to stay consistent, build real-world projects, im
 
 ## Connect With Me
 
-- LinkedIn:www.linkedin.com/in/jaydeepsinh-jadeja-b46147343
-- GitHub: https://github.com/JaydeepJadeja
+- LinkedIn:
+- GitHub:
