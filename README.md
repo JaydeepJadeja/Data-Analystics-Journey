@@ -64,5 +64,9 @@ The goal of this repository is to stay consistent, build real-world projects, im
 
 ## Connect With Me
 
-- LinkedIn:
-- GitHub:
+## You can reach me 👇
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaydeep-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Jaydeep-black?style=for-the-badge&logo=github)](YOUR_GITHUB_LINK)
+
