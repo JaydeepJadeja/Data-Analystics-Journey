@@ -66,7 +66,7 @@ The goal of this repository is to stay consistent, build real-world projects, im
 
 ## You can reach me 👇
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaydeep-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaydeep-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/jaydeepsinh-jadeja-b46147343)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Jaydeep-black?style=for-the-badge&logo=github)](YOUR_GITHUB_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-Jaydeep-black?style=for-the-badge&logo=github)]([YOUR_GITHUB_LINK](https://github.com/JaydeepJadeja))
 
