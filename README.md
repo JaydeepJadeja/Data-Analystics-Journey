@@ -34,7 +34,7 @@ The goal of this repository is to stay consistent, build real-world projects, im
 | Day 1 | SELECT statements, WHERE clause, GROUP BY, ORDER BY, HAVING vs WHERE, LIMIT, Aliasing  |
 | Day 2 | JOINS, UNION, UNION ALL |  
 | Day 3 |  String Functions, CASE Statements, Subqueries | 
-| Day 4 |  |  
+| Day 4 | Windows Function and CTEs |  
 | Day 5 |  |  
 | Day 6 |  |  
 | Day 7 |  |  
