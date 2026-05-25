@@ -57,7 +57,7 @@ The goal of this repository is to stay consistent, build real-world projects, im
 
 | Certificate | Status |
 |-------------|--------|
-| Google Data Analytics Professional Certificate | In Progress |
+| Google Data Analytics Professional Certificate | Completed |
 
 ---
 
