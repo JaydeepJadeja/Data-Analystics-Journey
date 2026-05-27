@@ -35,7 +35,7 @@ The goal of this repository is to stay consistent, build real-world projects, im
 | Day 2 | JOINS, UNION, UNION ALL |  
 | Day 3 |  String Functions, CASE Statements, Subqueries | 
 | Day 4 | Windows Function and CTEs |  
-| Day 5 | Sqlboult Practice |  
+| Day 5 | Sqlboult Practice,Solved Murder Mystery BY KNIGHT LAB  |  
 | Day 6 |  |  
 | Day 7 |  |  
 | Day 8 |  | 
