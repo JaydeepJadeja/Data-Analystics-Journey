@@ -37,20 +37,20 @@ The goal of this repository is to stay consistent, build real-world projects, im
 | Day 4 | Windows Function and CTEs |  
 | Day 5 | Sqlboult Practice,Solved Murder Mystery BY KNIGHT LAB  |  
 | Day 6 |  Started With POWER BI |  
-| Day 7 |  |  
+| Day 7 |Successfully completed Task 1 and received the next Data Science & Analytics task from Future Interns, continuing my hands-on learning journey. 🚀 |  
 | Day 8 |  | 
 | Day 9 |  |  
 | Day 10 |  |  
 
 ---
 
-## Featured Projects
+## Featured Dashboard
 
-| Project | Description |
-|---------|-------------|
-| [Bike Sales Analysis Dashboard](https://github.com/JaydeepJadeja/bike-sales-analysis-dashboard) | Bike Sales Analysis Dashboard built using Excel to analyze customer purchasing behavior, income trends, and regional sales patterns. |
-| [Superstore Sales Dashboard](https://github.com/JaydeepJadeja/superstore-sales-dashboard-exce) | Interactive Superstore Sales Dashboard built in Excel. |
-
+| Project | Description | Tool | 
+|---------|-------------| ---- |
+| [Bike Sales Analysis Dashboard](https://github.com/JaydeepJadeja/bike-sales-analysis-dashboard) | Bike Sales Analysis Dashboard built using Excel to analyze customer purchasing behavior, income trends, and regional sales patterns. | Excel | 
+| [Superstore Sales Dashboard](https://github.com/JaydeepJadeja/superstore-sales-dashboard-exce) | Interactive Superstore Sales Dashboard built in Excel. | Excel |
+| [e) | Interactive Superstore Sales Dashboard built in Excel. | Power BI |
 ---
 
 ## Certifications
