@@ -38,7 +38,7 @@ The goal of this repository is to stay consistent, build real-world projects, im
 | Day 5 | Sqlboult Practice,Solved Murder Mystery BY KNIGHT LAB  |  
 | Day 6 |  Started With POWER BI |  
 | Day 7 |Successfully completed Task 1 and received the next Data Science & Analytics task from Future Interns, continuing my hands-on learning journey. 🚀 |  
-| Day 8 |  | 
+| Day 8 | Successfully completed Task 2 At Future Interns  | 
 | Day 9 |  |  
 | Day 10 |  |  
 
