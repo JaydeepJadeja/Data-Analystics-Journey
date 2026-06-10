@@ -50,7 +50,8 @@ The goal of this repository is to stay consistent, build real-world projects, im
 |---------|-------------| ---- |
 | [Bike Sales Analysis Dashboard](https://github.com/JaydeepJadeja/bike-sales-analysis-dashboard) | Bike Sales Analysis Dashboard built using Excel to analyze customer purchasing behavior, income trends, and regional sales patterns. | Excel | 
 | [Superstore Sales Dashboard](https://github.com/JaydeepJadeja/superstore-sales-dashboard-exce) | Interactive Superstore Sales Dashboard built in Excel. | Excel |
-| [Future Intern Task 1 (Super Store Sales)](https://github.com/JaydeepJadeja/FUTURE_DS_01)| nteractive Superstore Sales Dashboard in Power BI, analyzing sales performance, revenue trends, regional insights, and key business metrics. 📊🚀 | Power BI |
+| [Future Intern Task 1 (Super Store Sales)](https://github.com/JaydeepJadeja/FUTURE_DS_01)| Interactive Superstore Sales Dashboard in Power BI, analyzing sales performance, revenue trends, regional insights, and key business metrics. 📊🚀 | Power BI |
+| [Future Intern Task 2 (Customer Retention & Churn Analysis)](https://github.com/JaydeepJadeja/FUTURE_DS_02) | End-to-end Customer Retention & Churn Analysis project featuring data cleaning, KPI tracking, churn segmentation, customer behavior analysis, and an interactive Power BI dashboard with business-driven retention recommendations. 📊📉 | Power BI |
 ---
 
 ## Certifications
