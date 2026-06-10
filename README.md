@@ -43,6 +43,12 @@ The goal of this repository is to stay consistent, build real-world projects, im
 | Day 10 |  |  
 
 ---
+## Experience
+
+| Role                | Organization   | Skills                                                                             |
+| ------------------- | -------------- | ---------------------------------------------------------------------------------- |
+| Data Analyst Intern | Future Interns | Power BI, SQL, Data Cleaning, Data Visualization, KPI Analysis, Business Analytics |
+
 
 ## Featured Dashboard
 
