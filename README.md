@@ -41,7 +41,7 @@ The goal of this repository is to stay consistent, build real-world projects, im
 | Day 7 | Successfully completed Task 1 and received the next Data Science & Analytics task from Future Interns, continuing my hands-on learning journey. 🚀 | Power BI,Excel |
 | Day 8 | Successfully completed Task 2 at Future Interns | Power BI,Excel |
 | Day 9 | Continuing in Power BI | Power BI |
-| Day 10 |  |  |
+| Day 10 | Completed SQLBoult | SQL |
 ---
 ## Experience
 
