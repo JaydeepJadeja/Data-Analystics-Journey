@@ -42,6 +42,7 @@ The goal of this repository is to stay consistent, build real-world projects, im
 | Day 8 | Successfully completed Task 2 at Future Interns | Power BI,Excel |
 | Day 9 | Continuing in Power BI | Power BI |
 | Day 10 | Completed SQLBoult | SQL |
+| Day 11 | Forage(Deloitte Data Analytics)  Task One | Tableau |
 ---
 ## Experience
 
